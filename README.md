@@ -90,9 +90,11 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 ## Contacto  
 <p>
 <a href="https://www.linkedin.com/in/mndavico/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="github" width="40" height="40"/> LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="github" width="40" height="40"/> 
+-LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
 <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
-  </a> GitHub: [Mi perfil de GitHub](https://github.com/noedavico) 
+  </a>
+- GitHub: [Mi perfil de GitHub](https://github.com/noedavico) 
 </p>
 📫¡No dudes en contactarme si tienes alguna pregunta o si te interesa colaborar en un proyecto! Estaré encantada de hablar contigo.
