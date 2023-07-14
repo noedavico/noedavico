@@ -56,7 +56,7 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/>
+    <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="80" height="40"/>
   </a>
  <a href="https://getbootstrap.esdocu.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="booststrap" width="40" height="40"/>
@@ -74,7 +74,7 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
     <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/penpot-PdtW.png" alt="penpot" width="90" height="40"/>
   </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://image.pngaaa.com/320/5043320-middle.png" alt="figma" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" width="40" height="40"/>
   </a>
 
 ## Estadísticas 📊
