@@ -31,18 +31,16 @@ Aquí están algunas de las tecnologías con las que trabajo:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
 
   <a href="https://developer.mozilla.org/es/docs/Glossary/SQL" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" alt="sass" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" alt="sass" width="80" height="40"/>
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="sass" width="40" height="40"/>
@@ -58,25 +56,25 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
     <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="40" height="40"/>
   </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://image.pngaaa.com/555/4725555-middle.png" alt="git" width="40" height="40"/>
+    <img src="https://image.pngaaa.com/555/4725555-middle.png" alt="git" width="60" height="40"/>
   </a>
  <a href="https://getbootstrap.esdocu.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="booststrap" width="40" height="40"/>
   </a>
    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" alt="postman" width="40" height="40"/>
+    <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" alt="postman" width="80" height="40"/>
   </a>
      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" width="40" height="40"/>
   </a>
     <a href="https://trello.com/es" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" alt="trello" width="40" height="40"/>
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" alt="trello" width="80" height="40"/>
   </a>
  <a href="https://penpot.app/" target="_blank" rel="noreferrer">
-    <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/penpot-PdtW.png" alt="penpot" width="40" height="40"/>
+    <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/penpot-PdtW.png" alt="penpot" width="80" height="40"/>
   </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies-thumbnail.png" alt="figma" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" alt="figma" width="80" height="40"/>
   </a>
 
 ## Estadísticas 📊
