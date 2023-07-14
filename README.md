@@ -11,6 +11,9 @@ https://komarev.com/ghpvc/?username=NOEDAVICO&label=Profile%20views&color=0e75b6
 Aquí están algunas de las tecnologías con las que trabajo:
 
 <p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
@@ -23,9 +26,7 @@ Aquí están algunas de las tecnologías con las que trabajo:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://ww1.freelogovectors.net/wp-content/uploads/2020/04/css-3-logo.png" alt="css" width="40" height="40"/>
-  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -38,20 +39,16 @@ Aquí están algunas de las tecnologías con las que trabajo:
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+
+
+  <a href="https://developer.mozilla.org/es/docs/Glossary/SQL" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" alt="sass" width="40" height="40"/>
   </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="sass" width="40" height="40"/>
   </a>
 </p>
-- HTML5 | CSS | JavaScript | React.js | Angular | TypeScript | DOM | Python | Flask | FastAPI | MySQL | MongoDB | Django | JWT
+- HTML5 | CSS | JavaScript | React.js | Angular | TypeScript | Python | Flask | FastAPI | SQL | MongoDB | Django | JWT
 
 ## Herramientas ⚒️
 
