@@ -5,7 +5,7 @@ Soy Noelia Davico, desarrolladora full stack con amplia experiencia laboral trab
 ## Sobre mí👩‍💻
 
 Soy una persona resolutiva, proactiva y autodidacta, con una gran capacidad analítica y atención al detalle. Disfruto enfrentando nuevos retos y siempre estoy en busca de oportunidades para seguir aprendiendo y actualizándome con las últimas tecnologías y tendencias del sector.
-https://komarev.com/ghpvc/?username=NOEDAVICO&label=Profile%20views&color=0e75b6&style=flat
+
 ## Tecnologías 🚀
 
 Aquí están algunas de las tecnologías con las que trabajo:
@@ -77,23 +77,22 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" width="40" height="40"/>
   </a>
 
-## Estadísticas 📊
+<!-- ## Estadísticas 📊
 
 <!-- ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=noedavico&show_icons=true&theme=radical&hide=stars)(https://github.com/noedavico/github-readme-stats) -->
-<a href="https://github.com/noedavico/github-readme-stats">
+<!-- <a href="https://github.com/noedavico/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noedavico&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/noedavico/convoychat">
+</a> -->
+<!-- <a href="https://github.com/noedavico/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noedavico&repo=convoychat" />
-</a>
-
+</a> --> -->
 
 ## Contacto  
-
+<p>
 <a href="https://www.linkedin.com/in/mndavico/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="github" width="40" height="40"/> LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
 <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a> GitHub: [Mi perfil de GitHub](https://github.com/noedavico) 
-
+</p>
 📫¡No dudes en contactarme si tienes alguna pregunta o si te interesa colaborar en un proyecto! Estaré encantada de hablar contigo.
