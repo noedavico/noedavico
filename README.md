@@ -48,20 +48,36 @@ Aquí están algunas de las tecnologías con las que trabajo:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="sass" width="40" height="40"/>
   </a>
 </p>
-- HTML5 | CSS | JavaScript | React.js | Angular | TypeScript | Python | Flask | FastAPI | SQL | MongoDB | Django | JWT
+<!-- - HTML5 | CSS | JavaScript | React.js | Angular | TypeScript | Python | Flask | FastAPI | SQL | MongoDB | Django | JWT -->
 
 ## Herramientas ⚒️
 
 Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 
-- Git
-- GitHub
-- Bootstrap
-- Postman
-- Insomnia
-- Trello
-- Penpot
-- Figma
+ <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="40" height="40"/>
+  </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://image.pngaaa.com/555/4725555-middle.png" alt="git" width="40" height="40"/>
+  </a>
+ <a href="https://getbootstrap.esdocu.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="booststrap" width="40" height="40"/>
+  </a>
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" alt="postman" width="40" height="40"/>
+  </a>
+     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-512x512-dse2p0fm.png" alt="insomnia" width="40" height="40"/>
+  </a>
+    <a href="https://trello.com/es" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" alt="trello" width="40" height="40"/>
+  </a>
+ <a href="https://penpot.app/" target="_blank" rel="noreferrer">
+    <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/penpot-PdtW.png" alt="penpot" width="40" height="40"/>
+  </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/648/190/png-transparent-figma-logo-tech-companies-thumbnail.png" alt="figma" width="40" height="40"/>
+  </a>
 
 ## Estadísticas 📊
 
@@ -72,9 +88,13 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 <a href="https://github.com/noedavico/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noedavico&repo=convoychat" />
 </a>
+
+
 ## Contacto  
 
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
-- GitHub: [Mi perfil de GitHub](https://github.com/noedavico)
+- <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="40" height="40"/>
+  </a> GitHub: [Mi perfil de GitHub](https://github.com/noedavico) 
 
 📫¡No dudes en contactarme si tienes alguna pregunta o si te interesa colaborar en un proyecto! Estaré encantada de hablar contigo.
