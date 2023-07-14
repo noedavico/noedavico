@@ -53,10 +53,10 @@ Aquí están algunas de las tecnologías con las que trabajo:
 Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 
  <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://image.pngaaa.com/555/4725555-middle.png" alt="git" width="70" height="40"/>
+    <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/>
   </a>
  <a href="https://getbootstrap.esdocu.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="booststrap" width="40" height="40"/>
@@ -90,9 +90,10 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 
 ## Contacto  
 
-- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
-- <a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="github" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/mndavico/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="github" width="40" height="40"/> LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/mndavico/)
+<a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
   </a> GitHub: [Mi perfil de GitHub](https://github.com/noedavico) 
 
 📫¡No dudes en contactarme si tienes alguna pregunta o si te interesa colaborar en un proyecto! Estaré encantada de hablar contigo.
