@@ -86,15 +86,9 @@ Estas son algunas de las herramientas que utilizo en mi flujo de trabajo:
 <!-- <a href="https://github.com/noedavico/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=noedavico&repo=convoychat" />
 </a> --> -->
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## Contacto  
-<p>
-<a href="https://www.linkedin.com/in/mndavico/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="github" width="40" height="40"/> 
+📫 **Contacto**  
+💼 [LinkedIn](https://www.linkedin.com/in/mndavico/) | 💻 [GitHub](https://github.com/noedavico)  
 
-<a href="https://github.com/noedavico" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40"/>
-  </a>
-
-</p>
-📫¡No dudes en contactarme si tienes alguna pregunta o si te interesa colaborar en un proyecto! Estaré encantada de hablar contigo.
